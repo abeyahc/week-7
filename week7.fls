@@ -1,9 +1,9 @@
-PWD /Users/abeyahc/Documents/Discrete Math/Notes Latex/week 7
+PWD /Users/abeyahc/Documents/Discrete Math/Notes Latex/week 7/week-7
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/abeyahc/Documents/Discrete Math/Notes Latex/week 7/week6.tex
-OUTPUT week6.log
+INPUT /Users/abeyahc/Documents/Discrete Math/Notes Latex/week 7/week-7/week7.tex
+OUTPUT week7.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
@@ -1122,7 +1122,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
-OUTPUT week6.pdf
+OUTPUT week7.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
@@ -1384,7 +1384,10 @@ INPUT ./letterfonts.tex
 INPUT ./letterfonts.tex
 INPUT letterfonts.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/mathtools/mathtools.sty
-OUTPUT week6.aux
+INPUT ./week7.aux
+INPUT week7.aux
+INPUT week7.aux
+OUTPUT week7.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/newpx/omlnpxmi.fd
@@ -1621,7 +1624,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
-INPUT week6.aux
+INPUT week7.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
